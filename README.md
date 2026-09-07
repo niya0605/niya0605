@@ -1,165 +1,65 @@
-<p align="center">
+<div align="center">
 
-# ✦ NIYA GANESH ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
 
-### `AI / ML` • `FULL STACK` • `ALGORITHMS`
+# Niya
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FF7EB6&center=true&vCenter=true&width=600&lines=System+Online+%3E%3E+Welcome;Building+%26+Learning;AI+%7C+ML+%7C+Web+Development;Turning+ideas+into+working+projects..." />
-</p>
+**Full-Stack Developer · Machine Learning**
 
-</p>
+<br/>
 
----
+<img src="./assets/hero.svg" width="620"/>
 
-## 🧩 About
-
-<p align="center">
-
-🎓 B.Tech Information Technology @ NIT Jalandhar  
-<br>
-🤖 AI / Machine Learning Enthusiast  
-<br>
-💻 Full-Stack & Frontend Developer  
-<br>
-🧠 Data Structures & Algorithms
-
-</p>
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,html,css,react,nextjs,nodejs,express,fastapi,tailwind,mysql,postgres,mongodb,redis,tensorflow,docker,git,github,postman,vscode" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,fastapi,mongodb,mysql,postgres,redis,tensorflow,docker,git,github,vscode&perline=11"/>
+<sub>also + AI SDK · Inngest · Better Auth · WebSockets</sub>
 
-</p>
-
----
-
-# 🚀 Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Brain Tumor Detection
-
-**Python • TensorFlow • Keras • CNN • Transfer Learning**
-
-Deep-learning pipeline for classifying brain MRI scans for tumor detection.
-
-- CNN-based image classification
-- Transfer learning
-- MRI image preprocessing
-- Image augmentation
-- Model evaluation
-- Matplotlib visualizations
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗺️ Pathfinding Visualizer
-
-**Algorithms • Data Structures • Visualization**
-
-Interactive visualization of pathfinding algorithms on a grid.
-
-- Grid-based visualization
-- Path exploration
-- Shortest-path concepts
-- Algorithm animation
-- Interactive learning
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"
-height="170"
-/>
+<br/><br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
-height="170"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niya0605&theme=react&hide_border=true" height="165"/>
 
-</p>
+<br/><br/>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&theme=react&hide_border=true" height="165"/>
 
-<img
-src="https://streak-stats.demolab.com/?user=niya0605&theme=radical&hide_border=true&background=0D1117"
-height="170"
-/>
-
-</p>
+</div>
 
 ---
 
-# 🧊 3D Contribution Matrix
+<div align="center">
 
-<p align="center">
+### wins
 
-<img
-src="./profile-3d-contrib/profile-night-rainbow.svg"
-width="100%"
-alt="3D GitHub contribution graph"
-/>
+<sub>🏆 Vijnana Bharati SPC — Grade A (Class 6) · Grade A1 (Class 7) &nbsp;·&nbsp; 🎭 Core team, Bharat Dhwani</sub>
+<br/>
+<sub>💻 Frontend Dev Intern, Atyaf E Solutions, Bahrain — 3 live production sites shipped</sub>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+### let's build something.
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&theme=react-dark&hide_border=true&area=true"
-width="100%"
-alt="GitHub contribution graph"
-/>
+📍 Kozhikode, Kerala &nbsp;·&nbsp; ✉️ niyaganesh06@email.com
 
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyaganesh06@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niya0605)
 
----
-
-# 🎯 Currently Learning
-
-<p align="center">
-
-`Machine Learning`  
-`Deep Learning`  
-`Data Structures & Algorithms`  
-`Full-Stack Development`  
-`AI Applications`
-
-</p>
-
----
-
-# 💻 System Status
-
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║       SYSTEM STATUS : ONLINE             ║
-║                                          ║
-║       BUILDING     ▸  ✓                  ║
-║       LEARNING     ▸  ✓                  ║
-║       DEBUGGING    ▸  ✓                  ║
-║       CREATING     ▸  ✓                  ║
-║                                          ║
-╚══════════════════════════════════════════╝
+</div>
