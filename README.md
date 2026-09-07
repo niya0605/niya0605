@@ -1,217 +1,223 @@
 <div align="center">
 
-<h1>NIYA GANESH</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:c44cff,100:7b2cff&height=200&section=header&text=NIYA%20GANESH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18">
 
-<p>
-  <b>Machine Learning Engineer</b> &nbsp;•&nbsp; <b>Full-Stack Developer</b>
-</p>
-
-<p>
-  <sub>AI • Software • Algorithms</sub>
-</p>
-
-<br>
-
-<!-- subtle pink visual divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&section=header&width=700">
+<a href="https://github.com/niya0605">
+<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+IT+%40+NIT+Jalandhar;Building+AI-powered+products;Deep+Learning+%7C+Full-Stack+%7C+Systems;Always+shipping+something+new&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=FF4FD8&vCenter=true&size=22">
+</a>
 
 </div>
 
+<br>
+
+<!-- ================= ABOUT ================= -->
+<div align="center">
+<h2>💗 About Me</h2>
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 B.Tech in **Information Technology**, NIT Jalandhar (2024 — 2028)
+- 🧠 Focused on **Machine Learning, Deep Learning, and Full-Stack Engineering**
+- 🚀 Building a portfolio of production-style AI and systems projects
+- 💼 Frontend Developer Intern @ **Atyaf E Solutions**, Bahrain
+- 📫 Reach me on [GitHub](https://github.com/niya0605)
+
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://readme-jokes.vercel.app/api" width="90%">
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&width=850">
+</div>
 <br>
 
 <!-- ================= TECH STACK ================= -->
-
 <div align="center">
-
-<h2>Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <table>
 <tr>
 <td align="center" width="50%">
-
-<b>Languages</b>
-
-<br><br>
-
+<b>Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark">
-
 </td>
-
 <td align="center" width="50%">
-
-<b>Frontend / Backend</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&theme=dark">
-
+<b>Frontend / Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi&theme=dark">
 </td>
 </tr>
-
 <tr>
 <td align="center">
-
-<b>AI / Machine Learning</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark">
-
+<b>AI / Machine Learning</b><br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,python,pytorch&theme=dark">
 </td>
-
 <td align="center">
-
-<b>Databases</b>
-
-<br><br>
-
+<b>Databases</b><br><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark">
-
 </td>
 </tr>
-
 <tr>
 <td align="center" colspan="2">
-
-<b>Tools</b>
-
-<br><br>
-
+<b>Tools & Infra</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark">
-
 </td>
 </tr>
 </table>
-
 </div>
-
-<br>
-
-<!-- ================= PINK DIVIDER ================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&section=header&width=700">
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&width=850">
 </div>
-
 <br>
 
 <!-- ================= PROJECTS ================= -->
-
 <div align="center">
+<h2>🚀 Featured Projects</h2>
+</div>
 
-<h2>Projects</h2>
-
-<table>
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
-
-<h3>🧠 Brain Tumor Detection</h3>
-
-<p>
-Deep-learning based system for classifying
-brain MRI scans.
-</p>
-
-<p>
-<sub>Python · TensorFlow · Keras · CNN · Transfer Learning</sub>
-</p>
-
+<h3>🧠 NeuroScan — Brain Tumor Detection</h3>
+<p>Deep-learning classifier for brain MRI scans across 4 tumor classes (glioma, meningioma, pituitary, no-tumor). Trained on ~16.6K images; ships at 97% accuracy on a 2,600-image held-out test set. Live on Render.</p>
+<p><sub><b>Python · TensorFlow · Keras · CNN · Transfer Learning · Scikit-learn</b></sub></p>
 </td>
-
 <td width="50%" valign="top">
-
-<h3>🗺️ Pathfinding Visualizer</h3>
-
-<p>
-Interactive visualization for exploring
-pathfinding and search algorithms.
-</p>
-
-<p>
-<sub>Algorithms · Data Structures · Visualization</sub>
-</p>
-
+<h3>🗺️ Pathfinder Visualizer</h3>
+<p>Interactive visualizer for pathfinding and search algorithms — Dijkstra, A*, BFS, and DFS — rendered in real time.</p>
+<p><sub><b>JavaScript · React · Algorithms · Data Structures</b></sub></p>
 </td>
-
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📄 AI PDF Reader</h3>
+<p>An AI-based PDF reader that acts as a teacher — Q&A over documents, auto-generated quizzes, and on-demand explanations.</p>
+<p><sub><b>Next.js · FastAPI · PostgreSQL · Redis · WebSockets · Docker</b></sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>📈 Real-Time Market Analytics & AI Insights</h3>
+<p>Stock market analytics platform ingesting live data via REST APIs, with AI-generated trend summaries and insights.</p>
+<p><sub><b>Next.js · TypeScript · Inngest · Better Auth · AI SDK</b></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 Claude Clone</h3>
+<p>A full chat application replicating the Claude experience, built on the Anthropic API with streaming responses.</p>
+<p><sub><b>Next.js · TypeScript · Claude API · AI SDK · Docker</b></sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>⚖️ Responsible-AI Bias Auditing Platform</h3>
+<p>A platform for auditing ML models for bias, with a full technical pitch covering design rationale and trade-offs.</p>
+<p><sub><b>FastAPI · React</b></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌆 Smart City Air Quality Network</h3>
+<p>Distributed air-quality sensor network using NB-IoT (5G-compatible) to stream AQI data to a cloud dashboard.</p>
+<p><sub><b>Wireless Networks · NB-IoT · IoT · Cloud Dashboard</b></sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>🔗 URL Shortener</h3>
+<p>A production-style URL shortener with a full interview-ready breakdown of the design and trade-offs.</p>
+<p><sub><b>FastAPI · PostgreSQL · Redis</b></sub></p>
+</td>
 </tr>
 </table>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&width=850">
 </div>
+<br>
 
+<!-- ================= GITHUB STATS ================= -->
+<div align="center">
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4fd8&icon_color=c44cff&text_color=eaeaea&ring_color=7b2cff" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niya0605&hide_border=true&background=00000000&stroke=7b2cff&ring=ff4fd8&fire=c44cff&currStreakLabel=ff4fd8" width="48%">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&hide_border=true&bg_color=00000000&title_color=ff4fd8&text_color=eaeaea&langs_count=8" width="48%">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&bg_color=00000000&color=ff4fd8&line=c44cff&point=7b2cff&hide_border=true" width="96%">
+
+</div>
 <br>
 
 <!-- ================= 3D CONTRIBUTIONS ================= -->
+<div align="center">
+<h2>🌌 3D Contribution Graph</h2>
+<br>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="92%" alt="3D GitHub contribution graph">
+</div>
+<br>
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+<div align="center">
+<h2>🐍 Contribution Snake</h2>
+<br>
+<img src="./dist/github-contribution-grid-snake.svg" width="92%" alt="Contribution snake animation">
+<p><sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — pink/dark themed output shown above.</sub></p>
+</div>
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&section=header&width=700">
-
-<h2>3D Contributions</h2>
-
-<br>
-
-<img
-src="./profile-3d-contrib/profile-night-rainbow.svg"
-width="92%"
-alt="3D GitHub contribution graph"
->
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&width=850">
 </div>
-
-<br>
 
 <!-- ================= EDUCATION ================= -->
-
 <div align="center">
-
-<h2>Education</h2>
-
+<h2>🎓 Education</h2>
 <table>
 <tr>
-
 <td align="center">
-
-<b>National Institute of Technology, Jalandhar</b>
-
-<br>
-
-B.Tech — Information Technology
-
-<br>
-
+<b>National Institute of Technology, Jalandhar</b><br>
+B.Tech — Information Technology<br>
 <sub>2024 — 2028</sub>
-
 </td>
-
 <td align="center">
-
-<b>The Indian School, Bahrain</b>
-
-<br>
-
-Higher Secondary Education
-
-<br>
-
+<b>The Indian School, Bahrain</b><br>
+Higher Secondary Education<br>
 <sub>2024</sub>
-
 </td>
-
 </tr>
 </table>
-
 </div>
-
 <br>
 
-<!-- ================= CONNECT ================= -->
+<!-- ================= EXPERIENCE ================= -->
+<div align="center">
+<h2>💼 Experience</h2>
+<table>
+<tr>
+<td align="center">
+<b>Frontend Developer Intern — Atyaf E Solutions, Bahrain</b><br>
+<sub>June 10 – July 10</sub><br><br>
+Built the Ministry of Parliamentary Affairs website on a .NET builder CMS, and contributed to the University of Technology Bahrain and Bank ABC websites as client work.
+</td>
+</tr>
+</table>
+</div>
+<br>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&width=850">
+</div>
 
-<h2>Connect</h2>
+<!-- ================= CONNECT ================= -->
+<div align="center">
+<h2>🔗 Connect</h2>
 
 <a href="https://github.com/niya0605">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45">
@@ -219,6 +225,6 @@ Higher Secondary Education
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:c44cff,100:7b2cff&height=80&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:c44cff,100:7b2cff&height=100&section=footer">
 
 </div>
