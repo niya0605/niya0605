@@ -1,171 +1,103 @@
-<!-- ========================= -->
-<!--        TOP BANNER         -->
-<!-- ========================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:15111F,100:FF7EB6&height=180&section=header&text=NIYA%20GANESH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=FF7EB6&center=true&vCenter=true&width=650&lines=Computer+Science+%7C+AI%2FML+%7C+Full+Stack;Building+things+that+actually+work+%F0%9F%92%BB;Algorithms+%7C+Machine+Learning+%7C+Web+Development;System+Online+%3E%3E+Welcome..." />
-</p>
+# Niya
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niya0605&label=PROFILE+VIEWS&color=ff7eb6&style=flat-square" />
-</p>
+**Full-Stack Developer · Machine Learning**
 
----
+<img src="https://github.com/niya0605.png?size=120" width="120" height="120" style="border-radius:50%"/>
 
-# ✦ About Me
+```
 
-<p align="center">
+ .----.   .----.   .----.
+ |--.-.|  \  /   |--.-.|
+ |  ( )|   \/    |  ( )|
+ '----'   /  \   '----'
 
-🎓 <b>B.Tech Information Technology</b> @ NIT Jalandhar  
-<br>
-🤖 Interested in <b>AI / Machine Learning</b>  
-<br>
-💻 Full-Stack & Frontend Development  
-<br>
-🧠 Exploring Algorithms & Problem Solving
+```
 
-</p>
+`* system online — welcome_`
+
+</div>
 
 ---
 
-# ⚡ Tech Stack
+### whoami
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,fastapi,mongodb,mysql,postgres,redis,tensorflow,docker,git,github,vscode&perline=11" />
-</p>
+I'm **Niya** — a B.Tech Information Technology student at NIT Jalandhar. I build full-stack web
+applications, AI-powered tools, and machine learning systems, and I've worked as a frontend
+developer intern shipping production websites in Bahrain. Currently open to internships and
+interesting problems.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20Keras%20%7C%20CNNs-FF6B9D?style=for-the-badge&labelColor=111318" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Node.js-FF6B9D?style=for-the-badge&labelColor=111318" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB-FF6B9D?style=for-the-badge&labelColor=111318" />
-</p>
+<div align="center">
 
----
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-# 🚀 Projects
+*also + AI SDK · Inngest · Better Auth · WebSockets*
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 Brain Tumor Detection</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-</p>
-
-<p align="center">
-  Deep learning pipeline for classifying brain MRI scans for tumor detection using CNNs and transfer learning.
-</p>
-
-<p align="center">
-  <b>• CNN Architecture</b><br>
-  <b>• Transfer Learning</b><br>
-  <b>• Image Preprocessing</b><br>
-  <b>• Data Augmentation</b><br>
-  <b>• Model Evaluation</b>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🗺️ Pathfinding Visualizer</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Algorithms-6C5CE7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-FF6B9D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Visualization-00D9FF?style=flat-square"/>
-</p>
-
-<p align="center">
-  Interactive visualization of pathfinding algorithms and how they explore a grid to find routes.
-</p>
-
-<p align="center">
-  <b>• Pathfinding Algorithms</b><br>
-  <b>• Grid Visualization</b><br>
-  <b>• Shortest Path Concepts</b><br>
-  <b>• Algorithm Animation</b><br>
-  <b>• Interactive Learning</b>
-</p>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117"
-  height="175"
-/>
+<br/><br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
-  height="175"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niya0605&theme=react&hide_border=true" height="165"/>
 
-</p>
+<br/><br/>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&theme=react&hide_border=true" height="165"/>
 
-<img
-  src="https://streak-stats.demolab.com/?user=niya0605&theme=radical&hide_border=true&background=0D1117"
-  height="175"
-/>
-
-</p>
+</div>
 
 ---
 
-# 🧊 3D Contribution Matrix
+### wins
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
-</p>
+🏆 Vijnana Bharati Sastra Pratibha Contest (SPC) — national STEM talent search by VIBHA, NCERT & NCSM — Grade A (Class 6), Grade A1 (Class 7)
 
----
+🎭 Core team member, **Bharat Dhwani** — cultural org, NIT Jalandhar
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&bg_color=0D1117&color=FF7EB6&line=FF7EB6&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
+💻 Frontend Developer Intern, **Atyaf E Solutions**, Bahrain — 3 live production sites shipped
 
 ---
 
-# 🎯 Current Focus
+<div align="center">
 
-<p align="center">
+### let's build something.
 
-`AI / ML` • `Data Structures` • `Algorithms` • `Full Stack Development`
+📍 Kozhikode, Kerala &nbsp;·&nbsp; ✉️ niyaganesh06@email.com
 
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyaganesh06@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niya0605)
 
-<p align="center">
-
-```text
-╭──────────────────────────────────────────╮
-│                                          │
-│       SYSTEM STATUS : ONLINE             │
-│                                          │
-│       BUILDING   ▸   LEARNING            │
-│       DEBUGGING  ▸   REPEATING           │
-│                                          │
-╰──────────────────────────────────────────╯
+</div>
