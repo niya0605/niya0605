@@ -94,42 +94,6 @@
 <p><sub><b>JavaScript · React · Algorithms · Data Structures</b></sub></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📄 AI PDF Reader</h3>
-<p>An AI-based PDF reader that acts as a teacher — Q&A over documents, auto-generated quizzes, and on-demand explanations.</p>
-<p><sub><b>Next.js · FastAPI · PostgreSQL · Redis · WebSockets · Docker</b></sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>📈 Real-Time Market Analytics & AI Insights</h3>
-<p>Stock market analytics platform ingesting live data via REST APIs, with AI-generated trend summaries and insights.</p>
-<p><sub><b>Next.js · TypeScript · Inngest · Better Auth · AI SDK</b></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🤖 Claude Clone</h3>
-<p>A full chat application replicating the Claude experience, built on the Anthropic API with streaming responses.</p>
-<p><sub><b>Next.js · TypeScript · Claude API · AI SDK · Docker</b></sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>⚖️ Responsible-AI Bias Auditing Platform</h3>
-<p>A platform for auditing ML models for bias, with a full technical pitch covering design rationale and trade-offs.</p>
-<p><sub><b>FastAPI · React</b></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🌆 Smart City Air Quality Network</h3>
-<p>Distributed air-quality sensor network using NB-IoT (5G-compatible) to stream AQI data to a cloud dashboard.</p>
-<p><sub><b>Wireless Networks · NB-IoT · IoT · Cloud Dashboard</b></sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>🔗 URL Shortener</h3>
-<p>A production-style URL shortener with a full interview-ready breakdown of the design and trade-offs.</p>
-<p><sub><b>FastAPI · PostgreSQL · Redis</b></sub></p>
-</td>
-</tr>
 </table>
 
 <div align="center">
@@ -167,7 +131,11 @@
 <div align="center">
 <h2>🐍 Contribution Snake</h2>
 <br>
-<img src="./dist/github-contribution-grid-snake.svg" width="92%" alt="Contribution snake animation">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niya0605/niya0605/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niya0605/niya0605/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/niya0605/niya0605/output/github-contribution-grid-snake.svg" width="92%" alt="Contribution snake animation">
+</picture>
 <p><sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — pink/dark themed output shown above.</sub></p>
 </div>
 <br>
