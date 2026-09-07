@@ -105,12 +105,12 @@
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4fd8&icon_color=c44cff&text_color=eaeaea&ring_color=7b2cff" width="48%">
+<img src="./generated/overview.svg" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=niya0605&hide_border=true&background=00000000&stroke=7b2cff&ring=ff4fd8&fire=c44cff&currStreakLabel=ff4fd8" width="48%">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&hide_border=true&bg_color=00000000&title_color=ff4fd8&text_color=eaeaea&langs_count=8" width="48%">
+<img src="./generated/languages.svg" width="48%">
 
 <br><br>
 
