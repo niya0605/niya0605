@@ -3,183 +3,200 @@
 <h1>NIYA GANESH</h1>
 
 <p>
-  <b>Machine Learning Engineer</b>
-  &nbsp; • &nbsp;
-  <b>Full-Stack Developer</b>
+  <b>Machine Learning Engineer</b> &nbsp;•&nbsp; <b>Full-Stack Developer</b>
 </p>
 
 <p>
-  I build intelligent systems, web applications, and things that solve problems.
+  <sub>AI • Software • Algorithms</sub>
 </p>
 
 <br>
 
+<!-- subtle pink visual divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&section=header&width=700">
+
 </div>
 
-<hr>
+<br>
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ================= TECH STACK ================= -->
 
 <div align="center">
 
 <h2>Tech Stack</h2>
 
-<br>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<h4>Languages</h4>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
-
-<br><br>
-
-<h4>Frontend & Backend</h4>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&theme=dark" />
+<b>Languages</b>
 
 <br><br>
 
-<h4>AI / Machine Learning</h4>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
+</td>
 
-<br><br>
+<td align="center" width="50%">
 
-<h4>Databases</h4>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
+<b>Frontend / Backend</b>
 
 <br><br>
 
-<h4>Tools & Development</h4>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&theme=dark">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>AI / Machine Learning</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark">
+
+</td>
+
+<td align="center">
+
+<b>Databases</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+<b>Tools</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark">
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<hr>
+<!-- ================= PINK DIVIDER ================= -->
 
-<!-- ==================== PROJECTS ==================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&section=header&width=700">
+
+</div>
+
+<br>
+
+<!-- ================= PROJECTS ================= -->
 
 <div align="center">
 
 <h2>Projects</h2>
 
-</div>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-<h3>Brain Tumor Detection</h3>
+<h3>🧠 Brain Tumor Detection</h3>
 
 <p>
-A deep-learning system for classifying
+Deep-learning based system for classifying
 brain MRI scans.
 </p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-
-<br><br>
-
-<sub>
-CNN • Transfer Learning • Keras
-</sub>
-
-</div>
+<p>
+<sub>Python · TensorFlow · Keras · CNN · Transfer Learning</sub>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-<h3>Pathfinding Visualizer</h3>
+<h3>🗺️ Pathfinding Visualizer</h3>
 
 <p>
-An interactive visualization for exploring
+Interactive visualization for exploring
 pathfinding and search algorithms.
 </p>
 
-<br>
-
-<sub>
-Algorithms • Data Structures • Visualization
-</sub>
-
-</div>
+<p>
+<sub>Algorithms · Data Structures · Visualization</sub>
+</p>
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br>
 
-<hr>
-
-<!-- ==================== 3D CONTRIBUTIONS ==================== -->
+<!-- ================= 3D CONTRIBUTIONS ================= -->
 
 <div align="center">
 
-<h2>3D Contributions</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&section=header&width=700">
 
-<p>
-A 3D visualization of my GitHub contribution activity.
-</p>
+<h2>3D Contributions</h2>
 
 <br>
 
 <img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  width="95%"
-  alt="3D GitHub contribution graph"
-/>
+src="./profile-3d-contrib/profile-night-rainbow.svg"
+width="92%"
+alt="3D GitHub contribution graph"
+>
 
 </div>
 
 <br>
 
-<hr>
-
-<!-- ==================== EDUCATION ==================== -->
+<!-- ================= EDUCATION ================= -->
 
 <div align="center">
 
 <h2>Education</h2>
 
-<br>
-
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center">
 
-<h3>National Institute of Technology, Jalandhar</h3>
+<b>National Institute of Technology, Jalandhar</b>
 
-<b>B.Tech — Information Technology</b>
+<br>
 
-<br><br>
+B.Tech — Information Technology
 
-2024 — 2028
+<br>
+
+<sub>2024 — 2028</sub>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 
-<h3>The Indian School, Bahrain</h3>
+<b>The Indian School, Bahrain</b>
 
-<b>Higher Secondary Education</b>
+<br>
 
-<br><br>
+Higher Secondary Education
 
-2024
+<br>
+
+<sub>2024</sub>
 
 </td>
 
@@ -190,24 +207,18 @@ A 3D visualization of my GitHub contribution activity.
 
 <br>
 
-<hr>
-
-<!-- ==================== CONNECT ==================== -->
+<!-- ================= CONNECT ================= -->
 
 <div align="center">
 
 <h2>Connect</h2>
 
-<br>
-
 <a href="https://github.com/niya0605">
-<img
-  src="https://skillicons.dev/icons?i=github&theme=dark"
-  width="45"
-  alt="GitHub"
-/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45">
 </a>
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:c44cff,100:7b2cff&height=80&section=footer">
 
 </div>
