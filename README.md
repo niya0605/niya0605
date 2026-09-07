@@ -17,10 +17,20 @@ Guild:        Atyaf E Solutions (Frontend, Bahrain — completed)
 
 ## ⚔️ Weapons of choice
 
+![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF69B4?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF69B4?style=for-the-badge&logo=redis&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🏆 Achievements
@@ -57,6 +67,6 @@ Guild:        Atyaf E Solutions (Frontend, Bahrain — completed)
 
 ## 🔗 Connect
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](#) · [GitHub](https://github.com/niya0605) · [Email](mailto:niyaganesh06@email.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9BD2,100:FF4DB8&height=100&section=footer" />
