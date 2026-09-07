@@ -101,15 +101,6 @@
 </div>
 <br>
 
-<!-- ================= GITHUB STATS ================= -->
-<div align="center">
-<h2>📊 GitHub Stats</h2>
-
-<img src="./metrics.svg" width="96%">
-
-</div>
-<br>
-
 <!-- ================= 3D CONTRIBUTIONS ================= -->
 <div align="center">
 <h2>🌌 3D Contribution Graph</h2>
