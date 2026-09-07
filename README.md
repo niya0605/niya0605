@@ -1,137 +1,152 @@
 <div align="center">
 
-<pre>
-███╗   ██╗██╗██╗   ██╗ █████╗
-████╗  ██║██║╚██╗ ██╔╝██╔══██╗
-██╔██╗ ██║██║ ╚████╔╝ ███████║
-██║╚██╗██║██║  ╚██╔╝  ██╔══██║
-██║ ╚████║██║   ██║   ██║  ██║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-</pre>
-
 <h1>NIYA GANESH</h1>
 
 <p>
-  <code>AI/ML</code>
-  <code>FULL-STACK</code>
-  <code>PROBLEM SOLVER</code>
+  <b>Machine Learning Engineer</b> &nbsp;•&nbsp;
+  <b>Full-Stack Developer</b>
 </p>
 
 <p>
-  <i>Building things. Breaking things. Learning how they work.</i>
+  Building intelligent systems and turning ideas into products.
 </p>
 
 </div>
 
-<hr>
+<br>
+
+<!-- 3D VISUAL -->
 
 <div align="center">
 
-<h2>✦ PROJECTS ✦</h2>
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  width="85%"
+  alt="3D GitHub contributions"
+/>
 
 </div>
 
-<table>
+<br>
+
+<hr>
+
+<!-- TECH STACK -->
+
+<div align="center">
+
+<h2>Tech Stack</h2>
+
+<p>
+  <i>Technologies I work with</i>
+</p>
+
+<br>
+
+<h4>Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark" />
+
+<br><br>
+
+<h4>Frontend & Backend</h4>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&theme=dark" />
+
+<br><br>
+
+<h4>AI / Machine Learning</h4>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
+
+<br><br>
+
+<h4>Databases</h4>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
+
+<br><br>
+
+<h4>Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<hr>
+
+<!-- PROJECTS -->
+
+<div align="center">
+
+<h2>Projects</h2>
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
+
 <td width="50%" valign="top">
+
+<div align="center">
 
 <h3>🧠 Brain Tumor Detection</h3>
 
 <p>
-A deep-learning based system for classifying brain MRI scans.
+Deep-learning based system for classifying
+brain MRI scans.
 </p>
 
 <p>
-<b>Stack</b><br>
-Python · TensorFlow · Keras · CNN · Transfer Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 </p>
 
 <p>
-MRI preprocessing, augmentation and model evaluation using
-NumPy, Pillow, Scikit-learn and Matplotlib.
+<b>Python · TensorFlow · Keras · CNN · Transfer Learning</b>
 </p>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <h3>🗺️ Pathfinding Visualizer</h3>
 
 <p>
-An interactive visualization project for exploring pathfinding
+Interactive visualization of pathfinding
 and search algorithms.
 </p>
 
 <p>
-<b>Focus</b><br>
-Algorithms · Data Structures · Visualization
-</p>
-
-<p>
-Designed to make algorithmic pathfinding easier to understand
-through visual exploration.
-</p>
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<div align="center">
-
-<h2>⚡ TECH STACK ⚡</h2>
-
-<p>
-<b>Languages</b>
-</p>
-
-<p>
-C · C++ · Java · Python · JavaScript · TypeScript
-</p>
-
-<p>
-<b>Development</b>
-</p>
-
-<p>
-React · Node.js · Express · FastAPI · HTML · CSS
-</p>
-
-<p>
-<b>AI / ML</b>
-</p>
-
-<p>
-TensorFlow · Keras · CNN · Transfer Learning · Scikit-learn
-</p>
-
-<p>
-<b>Databases</b>
-</p>
-
-<p>
-MySQL · MongoDB · PostgreSQL · Redis · SQL Server
-</p>
-
-<p>
-<b>Tools</b>
-</p>
-
-<p>
-Git · GitHub · Docker · Postman · VS Code · Pytest
+<b>Algorithms · Data Structures · Visualization</b>
 </p>
 
 </div>
 
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <hr>
+
+<!-- 3D CONTRIBUTION -->
 
 <div align="center">
 
-<h2>🧊 3D CONTRIBUTION MATRIX 🧊</h2>
+<h2>3D Contributions</h2>
 
 <p>
-A 3D view of my GitHub contribution activity.
+A 3D visualization of my GitHub activity.
 </p>
 
 <img
@@ -142,60 +157,68 @@ A 3D view of my GitHub contribution activity.
 
 </div>
 
+<br>
+
 <hr>
+
+<!-- EDUCATION -->
 
 <div align="center">
 
-<h2>🎓 EDUCATION</h2>
+<h2>Education</h2>
 
-</div>
+<br>
 
 <table>
 <tr>
-<td>
 
-<b>B.Tech — Information Technology</b><br>
-National Institute of Technology, Jalandhar<br>
-<code>2024 — 2028</code>
+<td align="center" width="50%">
+
+<h3>National Institute of Technology, Jalandhar</h3>
+
+<b>B.Tech — Information Technology</b>
+
+<br><br>
+
+2024 — 2028
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>The Indian School, Bahrain</h3>
+
+<b>Higher Secondary Education</b>
+
+<br><br>
+
+2024
 
 </td>
 
-<td>
-
-<b>Higher Secondary Education</b><br>
-The Indian School, Isa Town, Bahrain<br>
-<code>2024</code>
-
-</td>
 </tr>
 </table>
 
-<hr>
-
-<div align="center">
-
-<h2>🌐 CONNECT</h2>
-
-<p>
-<a href="https://github.com/niya0605">
-  <img src="https://img.shields.io/badge/GitHub-niya0605-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
 </div>
 
+<br>
+
 <hr>
+
+<!-- CONNECT -->
 
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════╗
-║                                          ║
-║       SYSTEM ONLINE • KEEP BUILDING      ║
-║                                          ║
-╚══════════════════════════════════════════╝
-</pre>
+<h2>Connect</h2>
 
-<sub>© 2026 Niya Ganesh</sub>
+<br>
+
+<a href="https://github.com/niya0605">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
+</a>
+
+<br><br>
+
+<sub>Thanks for visiting ✦</sub>
 
 </div>
