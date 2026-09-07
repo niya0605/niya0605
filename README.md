@@ -105,16 +105,7 @@
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<img src="./generated/overview.svg" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niya0605&hide_border=true&background=00000000&stroke=7b2cff&ring=ff4fd8&fire=c44cff&currStreakLabel=ff4fd8" width="48%">
-
-<br>
-
-<img src="./generated/languages.svg" width="48%">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&bg_color=00000000&color=ff4fd8&line=c44cff&point=7b2cff&hide_border=true" width="96%">
+<img src="./metrics.svg" width="96%">
 
 </div>
 <br>
