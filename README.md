@@ -3,49 +3,32 @@
 <h1>NIYA GANESH</h1>
 
 <p>
-  <b>Machine Learning Engineer</b> &nbsp;•&nbsp;
+  <b>Machine Learning Engineer</b>
+  &nbsp; • &nbsp;
   <b>Full-Stack Developer</b>
 </p>
 
 <p>
-  Building intelligent systems and turning ideas into products.
+  I build intelligent systems, web applications, and things that solve problems.
 </p>
 
-</div>
-
 <br>
 
-<!-- 3D VISUAL -->
-
-<div align="center">
-
-<img
-  src="./profile-3d-contrib/profile-night-view.svg"
-  width="85%"
-  alt="3D GitHub contributions"
-/>
-
 </div>
-
-<br>
 
 <hr>
 
-<!-- TECH STACK -->
+<!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
 
 <h2>Tech Stack</h2>
 
-<p>
-  <i>Technologies I work with</i>
-</p>
-
 <br>
 
 <h4>Languages</h4>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
 
 <br><br>
 
@@ -67,7 +50,7 @@
 
 <br><br>
 
-<h4>Tools</h4>
+<h4>Tools & Development</h4>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
 
@@ -77,7 +60,7 @@
 
 <hr>
 
-<!-- PROJECTS -->
+<!-- ==================== PROJECTS ==================== -->
 
 <div align="center">
 
@@ -94,20 +77,20 @@
 
 <div align="center">
 
-<h3>🧠 Brain Tumor Detection</h3>
+<h3>Brain Tumor Detection</h3>
 
 <p>
-Deep-learning based system for classifying
+A deep-learning system for classifying
 brain MRI scans.
 </p>
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-</p>
 
-<p>
-<b>Python · TensorFlow · Keras · CNN · Transfer Learning</b>
-</p>
+<br><br>
+
+<sub>
+CNN • Transfer Learning • Keras
+</sub>
 
 </div>
 
@@ -117,16 +100,18 @@ brain MRI scans.
 
 <div align="center">
 
-<h3>🗺️ Pathfinding Visualizer</h3>
+<h3>Pathfinding Visualizer</h3>
 
 <p>
-Interactive visualization of pathfinding
-and search algorithms.
+An interactive visualization for exploring
+pathfinding and search algorithms.
 </p>
 
-<p>
-<b>Algorithms · Data Structures · Visualization</b>
-</p>
+<br>
+
+<sub>
+Algorithms • Data Structures • Visualization
+</sub>
 
 </div>
 
@@ -139,15 +124,17 @@ and search algorithms.
 
 <hr>
 
-<!-- 3D CONTRIBUTION -->
+<!-- ==================== 3D CONTRIBUTIONS ==================== -->
 
 <div align="center">
 
 <h2>3D Contributions</h2>
 
 <p>
-A 3D visualization of my GitHub activity.
+A 3D visualization of my GitHub contribution activity.
 </p>
+
+<br>
 
 <img
   src="./profile-3d-contrib/profile-night-rainbow.svg"
@@ -161,7 +148,7 @@ A 3D visualization of my GitHub activity.
 
 <hr>
 
-<!-- EDUCATION -->
+<!-- ==================== EDUCATION ==================== -->
 
 <div align="center">
 
@@ -169,7 +156,7 @@ A 3D visualization of my GitHub activity.
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="50%">
@@ -205,7 +192,7 @@ A 3D visualization of my GitHub activity.
 
 <hr>
 
-<!-- CONNECT -->
+<!-- ==================== CONNECT ==================== -->
 
 <div align="center">
 
@@ -214,11 +201,13 @@ A 3D visualization of my GitHub activity.
 <br>
 
 <a href="https://github.com/niya0605">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
+<img
+  src="https://skillicons.dev/icons?i=github&theme=dark"
+  width="45"
+  alt="GitHub"
+/>
 </a>
 
 <br><br>
-
-<sub>Thanks for visiting ✦</sub>
 
 </div>
