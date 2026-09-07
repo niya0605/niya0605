@@ -1,110 +1,111 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Niya</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
+<p align="center">
+  <b>B.Tech IT Student @ NIT Jalandhar</b> • <b>AI/ML Enthusiast</b> • <b>Frontend Developer</b>
+</p>
 
-# Niya
-
-**Full-Stack Developer · Machine Learning**
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github.com/niya0605.png?size=140" width="140" style="border-radius:8px"/>
-</td>
-<td align="center">
-<pre>
- .----.   .----.   .----.
- |--.-.|  \  /   |--.-.|
- |  ( )|   \/    |  ( )|
- '----'   /  \   '----'
-</pre>
-</td>
-</tr>
-</table>
-
-`* system online — welcome_`
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF7EB6&center=true&vCenter=true&width=500&lines=System+Online+%3E%3E+Welcome;Building+%26+Learning+%F0%9F%92%BB;Exploring+AI%2C+ML+%26+Web+Development" />
+</p>
 
 ---
 
-### whoami
+## 👩🏻‍💻 whoami
 
-I'm **Niya** — a B.Tech Information Technology student at NIT Jalandhar. I build full-stack web
-applications, AI-powered tools, and machine learning systems, and I've worked as a frontend
-developer intern shipping production websites in Bahrain. Currently open to internships and
-interesting problems.
+I'm **Niya**, a B.Tech Information Technology student at **NIT Jalandhar**.
 
-<div align="center">
+I'm interested in **Artificial Intelligence, Machine Learning, Web Development, and Software Engineering**. I enjoy building projects that combine problem-solving with practical applications.
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-*also + AI SDK · Inngest · Better Auth · WebSockets*
-
-</div>
+Currently exploring AI/ML, full-stack development, and algorithms while continuously improving my development skills.
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niya0605&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<p align="center">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,fastapi,mongodb,mysql,postgres,redis,tensorflow,docker,git,github,vscode" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=niya0605&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niya0605&theme=react&hide_border=true" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya0605&layout=compact&theme=react&hide_border=true" height="165"/>
-
-</div>
+</p>
 
 ---
 
-### wins
+## 🚀 Projects
 
-🏆 Vijnana Bharati Sastra Pratibha Contest (SPC) — national STEM talent search by VIBHA, NCERT & NCSM — Grade A (Class 6), Grade A1 (Class 7)
+### 🧠 Brain Tumor Detection
 
-🎭 Core team member, **Bharat Dhwani** — cultural org, NIT Jalandhar
+**Python • TensorFlow • Keras • CNN • Transfer Learning**
 
-💻 Frontend Developer Intern, **Atyaf E Solutions**, Bahrain — 3 live production sites shipped
+A deep learning project for detecting tumors from brain MRI scans.
+
+- Built a CNN-based deep learning pipeline for MRI classification
+- Used **Transfer Learning** to improve model performance
+- Implemented image preprocessing and augmentation using **NumPy** and **Pillow**
+- Evaluated model performance using **Scikit-learn**
+- Visualized results and metrics using **Matplotlib**
 
 ---
 
-<div align="center">
+### 🗺️ Pathfinding Visualizer
 
-### let's build something.
+**Algorithms • Data Structures • Visualization**
 
-📍 Kozhikode, Kerala &nbsp;·&nbsp; ✉️ niyaganesh06@email.com
+An interactive visualizer for understanding how pathfinding algorithms explore and find routes through a grid.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyaganesh06@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niya0605)
+- Visualizes pathfinding algorithms step-by-step
+- Demonstrates algorithmic exploration and shortest-path concepts
+- Helps understand how different algorithms behave on a grid
+- Built with a focus on interactive learning and algorithm visualization
 
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning & Deep Learning
+- Data Structures & Algorithms
+- Full-Stack Development
+- AI/LLM Applications
+- System Design
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:niyaganesh06@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building. Breaking. Learning. Repeating. ✨</i>
+</p>
