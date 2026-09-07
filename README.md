@@ -10,18 +10,16 @@
 
 <table>
 <tr>
-<td>
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Niya&backgroundColor=1a1a2e" width="140"/>
+<td align="center">
+<img src="https://github.com/niya0605.png?size=140" width="140" style="border-radius:8px"/>
 </td>
-<td>
-
-```
+<td align="center">
+<pre>
  .----.   .----.   .----.
- |--.-.|  \\  /   |--.-.|
- |  ( )|   \\/    |  ( )|
- '----'   /  \\   '----'
-```
-
+ |--.-.|  \  /   |--.-.|
+ |  ( )|   \/    |  ( )|
+ '----'   /  \   '----'
+</pre>
 </td>
 </tr>
 </table>
@@ -93,7 +91,9 @@ interesting problems.
 ### wins
 
 🏆 Vijnana Bharati Sastra Pratibha Contest (SPC) — national STEM talent search by VIBHA, NCERT & NCSM — Grade A (Class 6), Grade A1 (Class 7)
+
 🎭 Core team member, **Bharat Dhwani** — cultural org, NIT Jalandhar
+
 💻 Frontend Developer Intern, **Atyaf E Solutions**, Bahrain — 3 live production sites shipped
 
 ---
