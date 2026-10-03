@@ -15,22 +15,13 @@
 <h2>💗 About Me</h2>
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
-
 - 🎓 B.Tech in **Information Technology**, NIT Jalandhar (2024 — 2028)
 - 🧠 Focused on **Machine Learning, Deep Learning, and Full-Stack Engineering**
 - 🚀 Building a portfolio of production-style AI and systems projects
 - 💼 Frontend Developer Intern @ **Atyaf E Solutions**, Bahrain
 - 📫 Reach me on [GitHub](https://github.com/niya0605)
 
-</td>
-<td width="40%" valign="top" align="center">
-<img src="https://streak-stats.demolab.com/?user=niya0605&background=0d1117&border=c44cff&ring=ff4fd8&fire=ff4fd8&currStreakLabel=ff4fd8&sideLabels=c44cff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=7b2cff&hide_border=false" width="95%" alt="GitHub streak stats">
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,50:c44cff,100:7b2cff&height=3&width=850">
