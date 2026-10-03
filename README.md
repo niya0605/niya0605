@@ -27,7 +27,7 @@
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://readme-jokes.vercel.app/api" width="90%">
+<img src="https://streak-stats.demolab.com/?user=niya0605&background=0d1117&border=c44cff&ring=ff4fd8&fire=ff4fd8&currStreakLabel=ff4fd8&sideLabels=c44cff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=7b2cff&hide_border=false" width="95%" alt="GitHub streak stats">
 </td>
 </tr>
 </table>
