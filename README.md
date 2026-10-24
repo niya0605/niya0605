@@ -80,16 +80,21 @@
 <p><sub><b>Python · TensorFlow · Keras · CNN · Transfer Learning · Scikit-learn</b></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3>🗺️ Pathfinder Visualizer</h3>
-<p>Interactive visualizer for pathfinding and search algorithms — Dijkstra, A*, BFS, and DFS — rendered in real time.</p>
-<p><sub><b>JavaScript · React · Algorithms · Data Structures</b></sub></p>
+<h3>📚 Nexus AI — AI-Powered PDF Tutor</h3>
+<p>Upload a PDF and learn from it like you would with a teacher: ask questions grounded in the document, get explanations of difficult sections, and generate quizzes to test understanding. Real-time responses over WebSockets.</p>
+<p><sub><b>Next.js · React · TypeScript · Tailwind CSS · FastAPI · SQLAlchemy · PostgreSQL · Redis · Pydantic · Alembic · WebSockets · Docker · Pytest</b></sub></p>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 <h3>📈 Pulse — Real-Time Market Analytics & AI Insights</h3>
 <p>Stock watchlist app that polls live quotes and news, then uses an LLM to write a plain-English trend summary for each symbol. Background jobs handle data refresh and insight generation; charts show price movement per ticker.</p>
 <p><sub><b>Next.js · TypeScript · Tailwind CSS · PostgreSQL (Neon) · Drizzle ORM · Better Auth · Inngest · Finnhub API · Groq · TanStack Query · Recharts</b></sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ Pathfinder Visualizer</h3>
+<p>Interactive visualizer for pathfinding and search algorithms — Dijkstra, A*, BFS, and DFS — rendered in real time.</p>
+<p><sub><b>JavaScript · React · Algorithms · Data Structures</b></sub></p>
 </td>
 </tr>
 </table>
@@ -152,7 +157,7 @@ Higher Secondary Education<br>
 <td align="center">
 <b>Frontend Developer Intern — Atyaf E Solutions, Bahrain</b><br>
 <sub>June 10 – July 10</sub><br><br>
-Built the Ministry of Parliamentary Affairs website on a .NET builder CMS, and contributed to the University of Technology Bahrain and Bank ABC websites as client work.
+Built and designed pages for client websites on a .NET builder CMS, working alongside a mentor on layout, content structure, and frontend implementation.
 </td>
 </tr>
 </table>
